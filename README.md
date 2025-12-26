@@ -1,1 +1,3 @@
 KODLAR RAPORUN SON SAYFALARINDA MEVCUTTUR. AYRIYETEN .R UZANTILI OLARAK DA KODLARI EKLEDİM.
+
+https://github.com/nurbanus/R-ILE-ZAMAN-SERILERI-ANALIZI/blob/main/zaman-serileri-handenurbanu%C5%9F%20(2).pdf
